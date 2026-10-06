@@ -1,0 +1,20 @@
+gitignore
+# Python bytecode
+__pycache__/
+*.py[codz]
+
+# Virtual Environment
+.venv/
+
+# Test and type-check caches
+.pytest_cache/
+.mypy_cache/
+
+# macOS
+.DS_Store
+
+# Serena MCP
+.serena/
+
+# pwvault secret
+vault.json
